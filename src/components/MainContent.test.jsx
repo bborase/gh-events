@@ -19,3 +19,4 @@ describe('MainContent', () => {
     expect(screen.getByTestId('help-area')).toBeInTheDocument();
   });
 });
+//I added commet to check if the test file is working correctly.
